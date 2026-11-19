@@ -1,0 +1,42 @@
+{
+ "nave": {
+  "w": 240,
+  "h": 114,
+  "frames": 8
+ },
+ "Avispa_de_Resina": {
+  "w": 180,
+  "h": 115,
+  "frames": 8
+ },
+ "Gorgojo_Francotirador": {
+  "w": 180,
+  "h": 101,
+  "frames": 8
+ },
+ "Escarabajo_Tostador": {
+  "w": 180,
+  "h": 134,
+  "frames": 8
+ },
+ "Broka_Matriarca": {
+  "w": 180,
+  "h": 126,
+  "frames": 8
+ },
+ "Hilandera_Orbital": {
+  "w": 460,
+  "h": 216,
+  "frames": 8
+ },
+ "Reina_del_Cafetal": {
+  "w": 460,
+  "h": 298,
+  "frames": 8
+ },
+ "General_Taladro": {
+  "w": 460,
+  "h": 211,
+  "frames": 8
+ }
+}
